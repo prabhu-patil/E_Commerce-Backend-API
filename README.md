@@ -1,15 +1,13 @@
-# 🛒 E-Commerce Application (Full Stack)
+# 🛒 E-Commerce Application (Backend API)
 ## 📌 Overview
 
-This is a full-stack E-Commerce application built with:
+This is a Backend  E-Commerce application built with:
 
 * Backend: Spring Boot (Java)
 
-* Frontend: React
-
 * Database: MySQL
 
-The application provides RESTful APIs for managing products and integrates with a React-based frontend for user interaction.
+Designed to integrate with any frontend application (React or other clients) via REST APIs.
 
 This project demonstrates backend development skills, API design, database integration, and full-stack integration.
 
@@ -26,17 +24,9 @@ Backend
 
 * Hibernate
 
-* MySQL
+* PostgreSQL
 
 * Maven
-
-Frontend
-
-* React
-
-* Axios (API calls)
-
-* HTML / CSS
 
 Tools
 

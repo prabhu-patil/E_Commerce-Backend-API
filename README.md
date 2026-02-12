@@ -5,7 +5,7 @@ This is a Backend  E-Commerce application built with:
 
 * Backend: Spring Boot (Java)
 
-* Database: MySQL
+* Database: PostgreSQL
 
 Designed to integrate with any frontend application (React or other clients) via REST APIs.
 
